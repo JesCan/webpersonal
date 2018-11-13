@@ -12,3 +12,4 @@ Trabajaremos un sitio web personal muy sencillo utilizando etiquetas HTML5 y CSS
 - Estudios superiores realizados
 - Afición y hobbys
 
+##Vamos a darle con todo al proyecto, sí se puede##

@@ -11,5 +11,6 @@ Trabajaremos un sitio web personal muy sencillo utilizando etiquetas HTML5 y CSS
 - Breve descripción personal
 - Estudios superiores realizados
 - Afición y hobbys
+- Fotos de lugares que visitado
 
 ##Vamos a darle con todo al proyecto, sí se puede##

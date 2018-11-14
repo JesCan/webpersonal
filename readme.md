@@ -1,4 +1,4 @@
-#Taller de Git desde cero
+# Taller de Git desde cero
 
 Este es un taller rápido y básico sobre el uso de Git y GitHub, herramienta fundamental para los amantes del desarrollo de soluciones informáticas.
 
@@ -13,4 +13,4 @@ Trabajaremos un sitio web personal muy sencillo utilizando etiquetas HTML5 y CSS
 - Afición y hobbys
 - Fotos de lugares que visitado
 
-##Vamos a darle con todo al proyecto, sí se puede
+## Vamos a darle con todo al proyecto, sí se puede

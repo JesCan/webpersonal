@@ -1,17 +1,3 @@
-# Taller de Git desde cero
+# Mis primeros pasos con JavaScript
 
-Este es un taller rápido y básico sobre el uso de Git y GitHub, herramienta fundamental para los amantes del desarrollo de soluciones informáticas.
-
----
-
-**Nuestro Proyecto**
-Trabajaremos un sitio web personal muy sencillo utilizando etiquetas HTML5 y CSS. Esta página web va a contener la siguiente información:
-- Nombres y apellidos completos
-- Foto personal
-- Breve descripción personal
-- Estudios superiores realizados
-- Afición y hobbys
-- Fotos de lugares que visitado
-
-## Vamos a darle con todo al proyecto, sí se puede
-## Hasta el infinito y más allá
+Empezaremos a conocer el lenguaje de programación JavaScript.
